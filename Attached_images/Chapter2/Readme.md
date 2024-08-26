@@ -1,1 +1,1 @@
-All images in chapter1 are stored in this folder.
+All images in chapter2 are stored in this folder.
