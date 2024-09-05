@@ -46,27 +46,27 @@ python -m ipykernel install --name newName
 # 安装第三方工具包,进入到requirements.txt所在路径.
 pip install -r requirements-ch01.txt
 ```
+
 ---
 
 # Table of Contents and Code Notebooks
-1、Machine Learning - Giving Computers the Ability to Learn from Data. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
-2、Training Machine Learning Algorithms for Classification. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
-3、A Tour of Machine Learning Classifiers Using Scikit-Learn. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter3.ipynb)
-4、Building Good Training Sets – Data Pre-Processing. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
-5、Compressing Data via Dimensionality Reduction. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter5.ipynb)
-6、Learning Best Practices for Model Evaluation and Hyperparameter Optimization. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
-7、Combining Different Models for Ensemble Learning. [ing]
-8、Applying Machine Learning to Sentiment Analysis. [TODO]
-9、Predicting Continuous Target Variables with Regression Analysis. [TODO]
-10、Working with Unlabeled Data – Clustering Analysis. [TODO]
-11、Implementing a Multi-layer Artificial Neural Network from Scratch. [TODO]
-12、Parallelizing Neural Network Training with PyTorch. [TODO]
-13、Going Deeper -- The Mechanics of PyTorch. [TODO]
-14、Classifying Images with Deep Convolutional Neural Networks. [TODO]
-15、Modeling Sequential Data Using Recurrent Neural Networks. [TODO]
-16、Transformers -- Improving Natural Language Processing with Attention Mechanisms. [TODO]
-17、Generative Adversarial Networks for Synthesizing New Data. [TODO]
-18、Graph Neural Networks for Capturing Dependencies in Graph Structured Data. [TODO]
-19、Reinforcement Learning for Decision Making in Complex Environments. [TODO]
 
-
+1. Machine Learning - Giving Computers the Ability to Learn from Data. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
+2. Training Machine Learning Algorithms for Classification. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
+3. A Tour of Machine Learning Classifiers Using Scikit-Learn. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter3.ipynb)
+4. Building Good Training Sets – Data Pre-Processing. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
+5. Compressing Data via Dimensionality Reduction. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter5.ipynb)
+6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
+7. Combining Different Models for Ensemble Learning. [ing]
+8. Applying Machine Learning to Sentiment Analysis. [TODO]
+9. Predicting Continuous Target Variables with Regression Analysis. [TODO]
+10. Working with Unlabeled Data – Clustering Analysis. [TODO]
+11. Implementing a Multi-layer Artificial Neural Network from Scratch. [TODO]
+12. Parallelizing Neural Network Training with PyTorch. [TODO]
+13. Going Deeper -- The Mechanics of PyTorch. [TODO]
+14. Classifying Images with Deep Convolutional Neural Networks. [TODO]
+15. Modeling Sequential Data Using Recurrent Neural Networks. [TODO]
+16. Transformers -- Improving Natural Language Processing with Attention Mechanisms. [TODO]
+17. Generative Adversarial Networks for Synthesizing New Data. [TODO]
+18. Graph Neural Networks for Capturing Dependencies in Graph Structured Data. [TODO]
+19. Reinforcement Learning for Decision Making in Complex Environments. [TODO]
