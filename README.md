@@ -49,7 +49,7 @@ pip install -r requirements-ch01.txt
 
 ---
 
-# Table of Contents and Code Notebooks
+# Table of Contents and Jupyter Notebooks
 
 1. Machine Learning - Giving Computers the Ability to Learn from Data. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
 2. Training Machine Learning Algorithms for Classification. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
