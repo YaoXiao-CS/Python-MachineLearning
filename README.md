@@ -1,4 +1,4 @@
-# Python-MachineLearning
+# Python-Machine Learning
 
 此存储库用于同步存储书籍--[Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-scikit-learn-ebook-dp-B09NW48MR1/dp/B09NW48MR1/)相应章节的代码记录 。
 
