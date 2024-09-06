@@ -57,7 +57,7 @@ pip install -r requirements-ch01.txt
 4. Building Good Training Sets – Data Pre-Processing. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
 5. Compressing Data via Dimensionality Reduction. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter5.ipynb)
 6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
-7. Combining Different Models for Ensemble Learning. [ing]
+7. Combining Different Models for Ensemble Learning. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter7.ipynb)
 8. Applying Machine Learning to Sentiment Analysis. [TODO]
 9. Predicting Continuous Target Variables with Regression Analysis. [TODO]
 10. Working with Unlabeled Data – Clustering Analysis. [TODO]
