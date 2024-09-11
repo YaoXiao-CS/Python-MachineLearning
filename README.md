@@ -59,7 +59,7 @@ pip install -r requirements-ch01.txt
 6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
 7. Combining Different Models for Ensemble Learning. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter7.ipynb)
 8. Applying Machine Learning to Sentiment Analysis. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter8.ipynb)
-9. Predicting Continuous Target Variables with Regression Analysis. [TODO]
+9. Predicting Continuous Target Variables with Regression Analysis. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter9.ipynb)
 10. Working with Unlabeled Data – Clustering Analysis. [TODO]
 11. Implementing a Multi-layer Artificial Neural Network from Scratch. [TODO]
 12. Parallelizing Neural Network Training with PyTorch. [TODO]
