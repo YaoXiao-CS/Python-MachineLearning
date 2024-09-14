@@ -51,15 +51,15 @@ pip install -r requirements-ch01.txt
 
 # Table of Contents and Jupyter Notebooks
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
-2. Training Machine Learning Algorithms for Classification. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
-3. A Tour of Machine Learning Classifiers Using Scikit-Learn. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter3.ipynb)
-4. Building Good Training Sets – Data Pre-Processing. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
-5. Compressing Data via Dimensionality Reduction. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter5.ipynb)
-6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
-7. Combining Different Models for Ensemble Learning. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter7.ipynb)
-8. Applying Machine Learning to Sentiment Analysis. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter8.ipynb)
-9. Predicting Continuous Target Variables with Regression Analysis. [jupyter notebook](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter9.ipynb)
+1. [Machine Learning - Giving Computers the Ability to Learn from Data.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
+2. [Training Machine Learning Algorithms for Classification.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
+3. [A Tour of Machine Learning Classifiers Using Scikit-Learn.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter3.ipynb)
+4. [Building Good Training Sets – Data Pre-Processing.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
+5. [Compressing Data via Dimensionality Reduction.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter5.ipynb)
+6. [Learning Best Practices for Model Evaluation and Hyperparameter Optimization.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter6.ipynb)
+7. [Combining Different Models for Ensemble Learning.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter7.ipynb)
+8. [Applying Machine Learning to Sentiment Analysis.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter8.ipynb)
+9. [Predicting Continuous Target Variables with Regression Analysis.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter9.ipynb)
 10. Working with Unlabeled Data – Clustering Analysis. [TODO]
 11. Implementing a Multi-layer Artificial Neural Network from Scratch. [TODO]
 12. Parallelizing Neural Network Training with PyTorch. [TODO]
