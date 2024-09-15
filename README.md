@@ -60,7 +60,7 @@ pip install -r requirements-ch01.txt
 7. [Combining Different Models for Ensemble Learning.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter7.ipynb)
 8. [Applying Machine Learning to Sentiment Analysis.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter8.ipynb)
 9. [Predicting Continuous Target Variables with Regression Analysis.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter9.ipynb)
-10. Working with Unlabeled Data – Clustering Analysis. [TODO]
+10. [Working with Unlabeled Data – Clustering Analysis.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter10.ipynb)
 11. Implementing a Multi-layer Artificial Neural Network from Scratch. [TODO]
 12. Parallelizing Neural Network Training with PyTorch. [TODO]
 13. Going Deeper -- The Mechanics of PyTorch. [TODO]
