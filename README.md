@@ -51,7 +51,7 @@ pip install -r requirements-ch01.txt
 
 # Table of Contents and Jupyter Notebooks
 
-1. [Machine Learning - Giving Computers the Ability to Learn from Data.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
+1. [Machine Learning - Giving Computers the Ability to Learn from Data.](https://nbviewer.jupyter.org/urls/https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter1.ipynb)
 2. [Training Machine Learning Algorithms for Classification.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter2.ipynb)
 3. [A Tour of Machine Learning Classifiers Using Scikit-Learn.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter3.ipynb)
 4. [Building Good Training Sets – Data Pre-Processing.](https://github.com/YaoXiao-CS/Python-MachineLearning/blob/main/Chapter4.ipynb)
