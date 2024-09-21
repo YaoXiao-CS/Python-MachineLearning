@@ -25,7 +25,7 @@ year = {2022}
 
 ```
 # 建议单独创建虚拟环境, <newName>是将要创建的环境名称，例如'mlbook'.
-conda create --name newName python=3.7
+conda create --name newName python=3.9
 
 # 激活新建的虚拟环境.
 activate newName
