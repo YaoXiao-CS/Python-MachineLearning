@@ -63,7 +63,7 @@ pip install -r requirements-ch01.txt
 10. [Working with Unlabeled Data – Clustering Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter10.ipynb)
 11. [Implementing a Multi-layer Artificial Neural Network from Scratch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter11.ipynb)
 12. [Parallelizing Neural Network Training with PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter12.ipynb)
-13. Going Deeper -- The Mechanics of PyTorch. [TODO]
+13. [Going Deeper -- The Mechanics of PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter13.ipynb)
 14. Classifying Images with Deep Convolutional Neural Networks. [TODO]
 15. Modeling Sequential Data Using Recurrent Neural Networks. [TODO]
 16. Transformers -- Improving Natural Language Processing with Attention Mechanisms. [TODO]
