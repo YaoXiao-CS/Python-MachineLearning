@@ -67,6 +67,6 @@ pip install -r requirements-ch01.txt
 14. [Classifying Images with Deep Convolutional Neural Networks.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter14.ipynb) 
 15. Modeling Sequential Data Using Recurrent Neural Networks. [TODO]
 16. Transformers -- Improving Natural Language Processing with Attention Mechanisms. [TODO]
-17. Generative Adversarial Networks for Synthesizing New Data. [TODO]
+17. [Generative Adversarial Networks for Synthesizing New Data.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter17.ipynb)
 18. Graph Neural Networks for Capturing Dependencies in Graph Structured Data. [TODO]
 19. Reinforcement Learning for Decision Making in Complex Environments. [TODO]
