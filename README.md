@@ -51,22 +51,22 @@ pip install -r requirements-ch01.txt
 
 # Table of Contents and Jupyter Notebooks
 
-1. [Machine Learning - Giving Computers the Ability to Learn from Data.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter1.ipynb)
-2. [Training Machine Learning Algorithms for Classification.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter2.ipynb)
-3. [A Tour of Machine Learning Classifiers Using Scikit-Learn.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter3.ipynb)
-4. [Building Good Training Sets – Data Pre-Processing.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter4.ipynb)
-5. [Compressing Data via Dimensionality Reduction.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter5.ipynb)
-6. [Learning Best Practices for Model Evaluation and Hyperparameter Optimization.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter6.ipynb)
-7. [Combining Different Models for Ensemble Learning.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter7.ipynb)
-8. [Applying Machine Learning to Sentiment Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter8.ipynb)
-9. [Predicting Continuous Target Variables with Regression Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter9.ipynb)
-10. [Working with Unlabeled Data – Clustering Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter10.ipynb)
-11. [Implementing a Multi-layer Artificial Neural Network from Scratch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter11.ipynb)
-12. [Parallelizing Neural Network Training with PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter12.ipynb)
-13. [Going Deeper -- The Mechanics of PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter13.ipynb)
-14. [Classifying Images with Deep Convolutional Neural Networks.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter14.ipynb) 
+1. [Machine Learning - Giving Computers the Ability to Learn from Data.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-01.ipynb)
+2. [Training Machine Learning Algorithms for Classification.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-02.ipynb)
+3. [A Tour of Machine Learning Classifiers Using Scikit-Learn.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-03.ipynb)
+4. [Building Good Training Sets – Data Pre-Processing.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-04.ipynb)
+5. [Compressing Data via Dimensionality Reduction.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-05.ipynb)
+6. [Learning Best Practices for Model Evaluation and Hyperparameter Optimization.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-06.ipynb)
+7. [Combining Different Models for Ensemble Learning.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-07.ipynb)
+8. [Applying Machine Learning to Sentiment Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-08.ipynb)
+9. [Predicting Continuous Target Variables with Regression Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-09.ipynb)
+10. [Working with Unlabeled Data – Clustering Analysis.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-10.ipynb)
+11. [Implementing a Multi-layer Artificial Neural Network from Scratch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-11.ipynb)
+12. [Parallelizing Neural Network Training with PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-12.ipynb)
+13. [Going Deeper -- The Mechanics of PyTorch.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-13.ipynb)
+14. [Classifying Images with Deep Convolutional Neural Networks.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-14.ipynb) 
 15. Modeling Sequential Data Using Recurrent Neural Networks. [TODO]
 16. Transformers -- Improving Natural Language Processing with Attention Mechanisms. [TODO]
-17. [Generative Adversarial Networks for Synthesizing New Data.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter17.ipynb)
+17. [Generative Adversarial Networks for Synthesizing New Data.](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Python-MachineLearning/main/Chapter-17.ipynb)
 18. Graph Neural Networks for Capturing Dependencies in Graph Structured Data. [TODO]
 19. Reinforcement Learning for Decision Making in Complex Environments. [TODO]
